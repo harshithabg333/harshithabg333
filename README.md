@@ -1,8 +1,8 @@
 # Hi there, I'm Harshitha 👋
 
-### Senior DevOps Engineer ☁️ | Cloud Infrastructure & Automation 🚀
+### Senior DevOps Engineer ☁️ | Full-Stack Developer 💻 | Cloud Infrastructure & Automation 🚀
 
-I'm a Senior DevOps Engineer with 7+ years of experience building scalable, reliable, and secure cloud infrastructure. I specialize in CI/CD automation, container orchestration, and infrastructure-as-code, with a growing focus on integrating AI-driven tools into DevOps workflows.
+I'm a Senior DevOps Engineer and Full-Stack Developer with 7+ years of experience building scalable, reliable, and secure cloud infrastructure, as well as full-stack web applications. I specialize in CI/CD automation, container orchestration, and infrastructure-as-code, with a growing focus on integrating AI-driven tools into DevOps workflows.
 
 [![LinkedIn: harshitha-bg](https://img.shields.io/badge/-harshitha--bg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitha-bg-58954663/)](https://www.linkedin.com/in/harshitha-bg-58954663/)
 
@@ -14,12 +14,15 @@ I'm a Senior DevOps Engineer with 7+ years of experience building scalable, reli
 - Managing **cloud infrastructure** and container orchestration at scale.
 - Building **Infrastructure as Code** to keep environments consistent and reproducible.
 - Building and testing **REST APIs** for cloud-native applications.
+- Developing **full-stack web applications** with React, Django, and Java/Spring.
 - Exploring **AI-powered chatbots and agents** using FastAPI, LangChain, and Groq.
 
 ### 💼 Technical Skills
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=007396)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 
 **Cloud & Infrastructure:**
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&color=FF9900)
@@ -30,6 +33,11 @@ I'm a Senior DevOps Engineer with 7+ years of experience building scalable, reli
 **CI/CD & Automation:**
 ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-informational?style=flat&logo=jenkins&color=D24939)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-informational?style=flat&logo=githubactions&color=2088FF)
+
+**Full-Stack & Databases:**
+![Spring](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&color=6DB33F)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![Oracle](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&color=F80000)
 
 **AI & Web Frameworks:**
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
