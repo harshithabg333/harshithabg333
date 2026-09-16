@@ -1,8 +1,8 @@
 # Hi there, I'm Harshitha 👋
 
-### DevOps Engineer ☁️ | Cloud Infrastructure & Automation 🚀
+### Senior DevOps Engineer ☁️ | Cloud Infrastructure & Automation 🚀
 
-I'm a DevOps Engineer with 7+ years of experience building scalable, reliable, and secure cloud infrastructure. I specialize in CI/CD automation, container orchestration, and infrastructure-as-code, with a growing focus on integrating AI-driven tools into DevOps workflows.
+I'm a Senior DevOps Engineer with 7+ years of experience building scalable, reliable, and secure cloud infrastructure. I specialize in CI/CD automation, container orchestration, and infrastructure-as-code, with a growing focus on integrating AI-driven tools into DevOps workflows.
 
 [![LinkedIn: harshitha-bg](https://img.shields.io/badge/-harshitha--bg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitha-bg-58954663/)](https://www.linkedin.com/in/harshitha-bg-58954663/)
 
@@ -29,7 +29,6 @@ I'm a DevOps Engineer with 7+ years of experience building scalable, reliable, a
 **CI/CD & Automation:**
 ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-informational?style=flat&logo=jenkins&color=D24939)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-informational?style=flat&logo=githubactions&color=2088FF)
-![Ansible](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible&color=EE0000)
 
 **AI & Web Frameworks:**
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
