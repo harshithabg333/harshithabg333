@@ -2,7 +2,7 @@
 
 ### Senior DevOps Engineer ☁️ | Full-Stack Developer 💻 | Cloud Infrastructure & Automation 🚀
 
-I'm a Senior DevOps Engineer and Full-Stack Developer with 7+ years of experience building scalable, reliable, and secure cloud infrastructure, as well as full-stack web applications. I specialize in CI/CD automation, container orchestration, and infrastructure-as-code, with a growing focus on integrating AI-driven tools into DevOps workflows.
+I'm a Senior DevOps Engineer and Full-Stack Developer with 8+ years of experience building scalable, reliable, and secure cloud infrastructure, as well as full-stack web applications. I specialize in CI/CD automation, container orchestration, and infrastructure-as-code, with a growing focus on integrating AI-driven tools into DevOps workflows.
 
 [![LinkedIn: harshitha-bg](https://img.shields.io/badge/-harshitha--bg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitha-bg-58954663/)](https://www.linkedin.com/in/harshitha-bg-58954663/)
 
