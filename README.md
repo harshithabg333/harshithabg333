@@ -13,6 +13,7 @@ I'm a Senior DevOps Engineer with 7+ years of experience building scalable, reli
 - Designing and maintaining **CI/CD pipelines** for reliable, repeatable deployments.
 - Managing **cloud infrastructure** and container orchestration at scale.
 - Building **Infrastructure as Code** to keep environments consistent and reproducible.
+- Building and testing **REST APIs** for cloud-native applications.
 - Exploring **AI-powered chatbots and agents** using FastAPI, LangChain, and Groq.
 
 ### 💼 Technical Skills
@@ -34,6 +35,11 @@ I'm a Senior DevOps Engineer with 7+ years of experience building scalable, reli
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
 ![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=langchain&color=1C3C3C)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+
+**APIs & Testing:**
+![REST APIs](https://img.shields.io/badge/API-REST-informational?style=flat&logo=swagger&color=85EA2D)
+![Postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&color=FF6C37)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
